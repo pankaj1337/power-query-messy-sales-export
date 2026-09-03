@@ -10,7 +10,7 @@ Rather than manually cleaning the export, I reshaped the data using Power Query.
 
 ## Transformation
 
-![Power Query Transformation](screenshots/power-query-transformation.png)
+![Power Query Transformation](power-query-transformation.png)
 
 ### Key Steps
 
